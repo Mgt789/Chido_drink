@@ -1,0 +1,113 @@
+
+@media only screen 
+and (min-width: 320px)  {
+    .line-design img{
+        height: 20px;
+        width: 24px;
+    }   
+    .text4{
+        padding: 20px 0px;
+    }
+    .h4, h4{
+        font-size: 16px;
+    }
+    .body-text h1{
+        padding-top: 10%; 
+        padding-left: 30px;
+    }
+    .body-text p{
+        padding-left: 30px;
+    }
+    .body-img1 img {
+        height: 550px;
+        width: 400px;
+    }
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (min-width:640px){
+    .line-design img{
+        height: 20px;
+        width: 24px;
+    }
+    .part2{
+        padding-top: 50px; 
+        padding-bottom: 0px;
+    }
+    .body-text h1{
+        padding-top: 10%; 
+        padding-left: 30px;
+    }
+    .h4, h4{
+        font-size: 16px;
+    }
+    .text4{
+        padding: 20px 0px;
+    }
+    .body-text p{
+        padding-left: 30px;
+    }
+    .body-img1 img {
+        height: 550px;
+        width: 400px;
+    }
+    
+}
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 599px) {
+    .line-design img {
+        height: 22px;
+        width: 38px;
+    }
+    .text4 p {
+        font-size: 9px;
+        margin-bottom: -10px;
+    }
+    .body-text h1{
+        padding-top: 10%; 
+        padding-left: 30px;
+    }
+    .body-img1 img {
+        height: 550px;
+        width: 400px;
+    }
+    .body-text p{
+        padding-left: 30px;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .line-design img {
+        height: 25px;
+        width: 53px;
+    }
+    .body-text h1{
+        padding-top: 10%; 
+        padding-left: 30px;
+    }
+    .body-text p{
+        padding-left: 30px;
+    }
+}
+
+
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .line-design img {
+        height: 30px;
+        width: 72px;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .line-design img {
+        height: 35px;
+        width: 88px;
+    }
+}
+

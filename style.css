@@ -1,0 +1,198 @@
+/* part-1  */
+
+.row{
+    margin: 0;
+}
+.background{
+    background: rgba(255, 192, 203, 0.884);
+}
+.text1 p{
+    display: inline;
+    /* padding: 0px 20px; */
+}
+.text1 p img{
+    height: 40px;
+    width: 70px;
+}
+.text1{
+    padding-top: 10px;
+    text-align: center;
+}
+.text1 p{
+    font-family: 'Alfa Slab One';
+    font-size: 14px;
+}
+.logo img{
+    text-decoration: none;
+    height: 100px;
+    width: 70px;
+}
+.r-image img{
+    padding-bottom: 50px;
+    margin-left:10%;
+    height: 450px;
+    width: 180px;
+}
+.text2{
+    padding: 50px; 
+}
+.text2 h1{
+    font-family: 'Alfa Slab One';
+    font-size: 50px;
+}
+.text2 p{
+        font-family: 'Besley';
+        font-size: 16px;
+}
+.text2 button{
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    padding: 5px 20px;
+    font-family: 'Alfa Slab One';
+    font-size: 12px;
+}
+.text3{
+    text-align: center;
+}
+.text3 h1{
+    font-weight: bold;
+    font-family: 'Chango';
+    font-size: 22px;
+}
+.text3 p{
+    font-size: 16px;
+    padding-bottom: 20px;
+}
+
+/* stamp section  */
+.stamp img{
+    height: 120px;
+    width: 120px;
+}
+.stamp{
+    padding-bottom: 50px;
+}
+
+/* part-2  */
+.part2{
+    text-align: center;
+    padding: 50px 0px;
+}
+
+.part2 h3{
+    font-weight: bold;
+    font-family: 'Chango';
+    font-size: 22px;
+}
+.part2 p{
+    font-family: 'Besley';
+    font-size: 16px;
+}
+.body-text h1{
+    padding-top: 40%;
+    font-family: 'Alfa Slab One';
+    font-size: 25px;
+    padding-left: 50px;   
+    padding-right: 30px;
+}
+.body-text p{
+    font-family: 'Besley';
+    font-size: 18px;
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-right: 30px;
+}
+.body-img1 img{
+    height: 600px;
+    width: 450px;
+}
+.body-img2 img{
+    height: 500px;;
+    width: 450px;
+}
+.body-img3 img{
+    height: 600px;;
+    width: 450px;
+}
+/* .r2{
+    padding: 0px 50px;
+
+} */
+.body{
+    padding-bottom: 50px;
+}
+
+/* part-3  */
+.line-design img{
+    height: 30px;
+    width: 70px;
+}
+.text4{
+    padding:50px 20px; 
+    text-align: center;
+    font-family: 'Alfa Slab One';
+}
+.text4 p{
+    font-family: 'Alfa Slab One';
+    font-size: 10px;
+}
+.icon3{
+    padding-bottom: 50px;
+}
+
+.can h3{
+    text-align: center;
+    padding-bottom: 50px;
+    font-family: 'Alfa Slab One';
+    font-size: 20px;
+}
+
+.can3{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.can3 p{
+    padding-top: 20px;
+    font-family: 'Alfa Slab One';
+    font-size: 16px;
+}
+
+/* part-4 */
+.background4{
+    background: black;
+    padding-bottom: 70px;
+}
+.logo4 img{
+    height: 250px;
+    width: 170px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.inbox4{
+    text-align: center;
+}
+.inbox4 input{
+    outline: none;
+    border-radius: 20px;
+}
+.inbox4 button{
+    border-radius: 20px;
+    padding: 5px 20px;
+    background-color: white;
+    color: black;
+    font-family: 'Alfa Slab One';
+    font-size: 14px;
+}
+.background4 p{
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
+
+.copyright p{
+    text-align: center;
+    font-family: 'Calibri';
+    font-size: 18px;
+    margin-bottom: 0;
+}
